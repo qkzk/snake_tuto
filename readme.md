@@ -28,7 +28,7 @@ vide.
 S'il quitte l'écran ou se mord, il meurt. La mort consiste à réinitialiser
 le serpent.
 
-# Deux approches
+# Trois approches
 
 Selon vos aptitudes et vos connaissances en la matière, vous pouvez décider :
 
